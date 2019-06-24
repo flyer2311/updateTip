@@ -2,7 +2,7 @@
 a plugin used in old version, tells users that they need to update their hybrid APP 
 ## Download
 ~~~cmd
-npm install @flyer2311/vue-sm-updateTip --save
+npm install @flyer2311/vue-sm-update-tip --save
 ~~~
 ## Function
 1. support update title and content by yourself
