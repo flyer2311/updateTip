@@ -1,0 +1,14 @@
+{
+  "name": "@flyer2311/vue-sm-updateTip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "flyer2311",
+  "license": "MIT",
+  "dependencies": {
+    "better-scroll": "^1.15.2"
+  }
+}
